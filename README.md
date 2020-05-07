@@ -1,2 +1,2 @@
 # Python-ML-Bootcamp
-It contains all solutions to exercises of this Udemy Bootcamp.
+It contains all my solutions to exercises of Udemy Bootcamp.
